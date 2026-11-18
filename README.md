@@ -1,6 +1,6 @@
 # PS5 Slim as a Linux Box and Local AI Server
 
-I turned a PS5 Slim into a Linux machine, then used it to run a 27B AI model that I reach from my laptop over the home network. These are my build logs: what I set up, what broke, and how I fixed it.
+In this repo I document using a PS5 Slim into as a Linux machine, then use it to run a 27B llm model that I reach from my laptop over the home network. These are my build logs: what I set up, what broke, and how I fixed it.
 
 ![Ubuntu 26.04 desktop running on a PS5 Slim](linux-boot/images/ubuntu-desktop-on-ps5.jpg)
 
